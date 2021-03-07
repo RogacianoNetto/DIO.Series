@@ -38,7 +38,6 @@ namespace DIO.Series
                 opcaoUsuario = ObterOpcaoUsuario();
             }
             Console.WriteLine("Obrigado por utilizar nossos serviços.");
-            Console.WriteLine("Até mais breve!");
             Console.ReadLine();
         }
 
